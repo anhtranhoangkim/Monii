@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440724210191",
+    "project_id": "monii-1873",
+    "storage_bucket": "monii-1873.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440724210191:android:3d9753e74422afd54a997a",
+        "android_client_info": {
+          "package_name": "com.example.monii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440724210191-fk1p18k796tle31m1de585qd362rreot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monii",
+            "certificate_hash": "f84079c46144b290ecb350708933935370ff5042"
+          }
+        },
+        {
+          "client_id": "440724210191-ik6tposn1pmv0v1legbfphk35oi4qbb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7rr-tuuevCD0Ee4_ho2JAMEeOBsUPKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440724210191-ik6tposn1pmv0v1legbfphk35oi4qbb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
